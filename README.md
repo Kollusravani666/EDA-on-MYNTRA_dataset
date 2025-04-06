@@ -1,0 +1,1 @@
+Performed in-depth exploratory data analysis (EDA) on a Myntra product dataset to uncover patterns and insights. Analyzed user behavior, product categories, ratings, and pricing trends to identify key business insights. Visualized findings using charts and graphs for better understanding and decision-making.
